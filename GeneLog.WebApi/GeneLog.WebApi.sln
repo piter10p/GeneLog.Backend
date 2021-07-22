@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneLog.Domain", "GeneLog.D
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{7C825A2C-A2FA-4D6A-8216-254B24EB4430}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameLog.Database", "GameLog.Database\GameLog.Database.csproj", "{A79505E1-A3FA-48E7-AA5F-7C469AF6A0FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,10 @@ Global
 		{2D2ADE91-3BC6-4CF1-A406-FE44584885B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D2ADE91-3BC6-4CF1-A406-FE44584885B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D2ADE91-3BC6-4CF1-A406-FE44584885B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A79505E1-A3FA-48E7-AA5F-7C469AF6A0FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A79505E1-A3FA-48E7-AA5F-7C469AF6A0FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A79505E1-A3FA-48E7-AA5F-7C469AF6A0FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A79505E1-A3FA-48E7-AA5F-7C469AF6A0FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -37,6 +43,7 @@ Global
 		{01F92691-7383-405C-9CA1-E3DE296D0C3A} = {7C825A2C-A2FA-4D6A-8216-254B24EB4430}
 		{11B3E755-E477-457C-8D71-7C42286295C8} = {7C825A2C-A2FA-4D6A-8216-254B24EB4430}
 		{2D2ADE91-3BC6-4CF1-A406-FE44584885B7} = {7C825A2C-A2FA-4D6A-8216-254B24EB4430}
+		{A79505E1-A3FA-48E7-AA5F-7C469AF6A0FD} = {7C825A2C-A2FA-4D6A-8216-254B24EB4430}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C63AE8C2-FC1A-4CE7-A091-BA94551346AD}
